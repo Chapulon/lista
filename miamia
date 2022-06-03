@@ -1,0 +1,6 @@
+#EXTM3U 
+
+#EXTINF:1,-LISTA GRATUITA-
+rtsp://mediacpstreamchile.com:1935/luisfernandez/luisfernandez
+https://mediacpstreamchile.com:1935/luisfernandez/luisfernandez/playlist.m3u8
+rtmp://mediacpstreamchile.com:1935/luisfernandez/luisfernandez
